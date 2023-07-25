@@ -1,0 +1,23 @@
+@font-face {
+  font-family: Prompt;
+  src: url(/public/font/Prompt-Regular.ttf);
+}
+.link {
+  color: white;
+}
+.link:hover {
+  color: black;
+}
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
+  background-color: rgb(255, 244, 183);
+}
+h3 {
+  text-align: center;
+  text-decoration-line: underline;
+  font-family: Prompt;
+}
+h4 {
+  text-align: center;
+}
+
